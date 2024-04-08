@@ -1,0 +1,1 @@
+Se desarrolló un breve programa en lenguaje C que imprima "Hola mundo" en pantalla.

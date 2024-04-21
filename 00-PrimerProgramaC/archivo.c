@@ -3,6 +3,6 @@
 
 int main(){
     printf("Hola mundo\n");
-    system("pause");
-    return 0;
+    
+    return EXIT_SUCCESS;
 }
